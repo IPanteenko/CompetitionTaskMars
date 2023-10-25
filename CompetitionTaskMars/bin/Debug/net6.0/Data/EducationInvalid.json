@@ -1,0 +1,39 @@
+﻿{
+  "testData": {
+    "emptyuniversity": {
+      "university": "",
+      "country": "Russia",
+      "title": "M.A",
+      "degree": "Occupational Psychology",
+      "graduationYear": "2017"
+    },
+    "emptycountry": {
+      "university": "Peking University",
+      "country": "",
+      "title": "PHD",
+      "degree": "Ecology",
+      "graduationYear": "1995"
+    },
+    "emptytitle": {
+      "university": "Peking University",
+      "country": "China",
+      "title": null,
+      "degree": "Ecology",
+      "graduationYear": "1995"
+    },
+    "emptydegree": {
+      "university": "Peking University",
+      "country": "China",
+      "title": "PHD",
+      "degree": "",
+      "graduationYear": "1995"
+    },
+    "emptyyear": {
+      "university": "Peking University",
+      "country": "China",
+      "title": "PHD",
+      "degree": "Ecology",
+      "graduationYear": ""
+    }
+ }
+

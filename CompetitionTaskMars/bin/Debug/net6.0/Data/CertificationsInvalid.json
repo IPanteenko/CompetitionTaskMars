@@ -1,0 +1,19 @@
+﻿{
+  "testData": {
+    "emptyname": {
+      "certificate": null,
+      "from": "University of Toronto",
+      "year": "2020"
+    },
+    "emptyprovider": {
+      "certificate": "Java for Programmers",
+      "from": null,
+      "year": "2023"
+    },
+    "emptyyear": {
+      "certificate": "Java for Programmers",
+      "from": "Codecademy",
+      "year": null,
+    }
+  }
+}

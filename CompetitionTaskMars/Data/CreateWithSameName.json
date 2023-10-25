@@ -1,0 +1,18 @@
+{
+  "testData": {
+    "original": {
+      "university": "St.Petersburg State University",
+      "country": "Russia",
+      "title": "M.A",
+      "degree": "Occupational Psychology",
+      "graduationYear": "2017"
+    },
+    "duplicate": {
+      "university": "St.Petersburg State University",
+      "country": "Russia",
+      "title": "M.A",
+      "degree": "Occupational Psychology",
+      "graduationYear": "2017"
+    }
+  }
+}
